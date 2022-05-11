@@ -11,6 +11,7 @@ debian系用户安装conky-all
 git clone https://github.com/Moe-hacker/conkyrc
 cd conkyrc
 ```
+然后:
 如果你是kde桌面:
 ```sh
 cp kde/conkyrc ~/.conkyrc
@@ -19,6 +20,7 @@ cp kde/conkyrc ~/.conkyrc
 ```sh
 cp xfce4/conkyrc ~/.conkyrc
 ```
+然后:
 如果你的cpu有4个核心：
 ```
 cp 4cpus/clock.lua ~/.clock.lua
