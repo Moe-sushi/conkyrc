@@ -2,6 +2,8 @@
 原项目地址：https://gitee.com/auroot/conkyrc
 ### 截图：
 ![](https://github.com/Moe-hacker/conkyrc/raw/main/screenshot.jpg)
+右下角是绿色的cpu监控，左下角是紫红色的那一条是内存监控，上面蓝色的是电池监控，两个小细条分别是/和/home磁盘用量监控
+⚠️在手机中chroot安装的linux也可使用conky，但电池不会显示，可以在lua文件中把baterry_percent改成swapperc，BAT0改成swap这样可以改成zram/swap监控
 ### 安装：
 arch系用户使用aur助手安装conky-lua  
 debian系用户安装conky-all  
