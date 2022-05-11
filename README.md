@@ -13,5 +13,5 @@ cp conkyrc ~/.conkyrc
 ```
 如果你的cpu有4个核心：
 ```
-cp clock-4cpus.lua ~/.clock.lua
+cp 4cpus/clock.lua ~/.clock.lua
 ```
