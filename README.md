@@ -22,6 +22,7 @@ cp kde/conkyrc ~/.conkyrc
 ```sh
 cp xfce4/conkyrc ~/.conkyrc
 ```
+其他桌面自己测试   
 最后:  
 如果你的cpu有4个核心：
 ```
