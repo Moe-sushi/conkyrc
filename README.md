@@ -1,6 +1,7 @@
 魔改自gitee@auroot
 原项目地址：https://gitee.com/auroot/conkyrc
 ### 截图：
+![](https://github.com/Moe-hacker/conkyrc/raw/main/screenshot.jpg)
 ### 安装：
 arch系用户使用aur助手安装conky-lua  
 debian系用户安装conky-all  
