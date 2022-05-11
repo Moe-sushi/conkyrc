@@ -15,3 +15,9 @@ cp conkyrc ~/.conkyrc
 ```
 cp 4cpus/clock.lua ~/.clock.lua
 ```
+如果你的cpu有8个核心：
+```
+cp 8cpus/clock.lua ~/.clock.lua
+```
+如果你的cpu有6个核心：
+自己写lua文件去吧，我又不会lua，原项目又没有6核心的。。。
