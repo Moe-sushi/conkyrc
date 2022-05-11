@@ -11,3 +11,7 @@ git clone https://github.com/Moe-hacker/conkyrc
 cd conkyrc
 cp conkyrc ~/.conkyrc
 ```
+如果你的cpu有4个核心：
+```
+cp clock-4cpus.lua ~/.clock.lua
+```
