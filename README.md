@@ -10,7 +10,14 @@ debian系用户安装conky-all
 ```
 git clone https://github.com/Moe-hacker/conkyrc
 cd conkyrc
-cp conkyrc ~/.conkyrc
+```
+如果你是kde桌面:
+```sh
+cp kde/conkyrc ~/.conkyrc
+```
+如果你是xfce4桌面:
+```sh
+cp xfce4/conkyrc ~/.conkyrc
 ```
 如果你的cpu有4个核心：
 ```
