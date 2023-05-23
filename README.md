@@ -18,19 +18,23 @@ cd conkyrc
 ```sh
 cp kde/conkyrc ~/.conkyrc
 ```
-如果你是xfce4桌面:
+如果你是xfce4桌面:      
 ```sh
 cp xfce4/conkyrc ~/.conkyrc
 ```
 其他桌面自己测试   
 最后:  
-如果你的cpu有4个核心：
+如果你的cpu有4个线程：      
 ```
 cp 4cpus/clock.lua ~/.clock.lua
 ```
-如果你的cpu有8个核心：
+如果你的cpu有8个线程：      
 ```
 cp 8cpus/clock.lua ~/.clock.lua
 ```
-如果你的cpu有6个核心：  
-自己写lua文件去吧，我又不会lua，原项目就没有6核心的。。。  
+如果你的cpu有12个线程：  
+```
+cp 12cpus/clock.lua ~/.clock.lua
+```
+如果你的cpu有6个线程。。。。      
+这边建议您自己写，12线程是我改的，也是我目前的配置，就当备份了，6线程等我有了相关设备再说吧咕咕咕。。。
