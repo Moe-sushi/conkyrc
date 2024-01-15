@@ -1,12 +1,12 @@
 ### Thanks：
 [auroot/conkyrc](https://gitee.com/auroot/conkyrc)
 ### Screenshot：
-![](https://github.com/Moe-hacker/conkyrc/raw/main/screenshot.jpg)
+![](https://github.com/Moe-sushi/conkyrc/raw/main/screenshot.jpg)
 ### Installation：
 You should install conky with lua support(conky-all in Debian,conky-lua in Archlinux) first.      
 Then:
 ```
-git clone https://github.com/Moe-hacker/conkyrc
+git clone https://github.com/Moe-sushi/conkyrc
 cd conkyrc
 ```
 If you are using KDE:
